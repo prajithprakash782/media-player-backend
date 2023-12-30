@@ -1,0 +1,56 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "VIKRAM",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTFhMDU5ZGYtNjcyNy00NjAyLWI5YzItYTUwZTk5MjhkMzk0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/OsLCY3vz3t8"
+    },
+    {
+      "id": "3",
+      "caption": "Rolex",
+      "url": "https://images.hindustantimes.com/img/2022/10/10/1600x900/Suriya_1658583857413_1665390371955_1665390371955.jpg",
+      "embedLink": "https://www.youtube.com/embed/rBLCjz8as0E"
+    },
+    {
+      "id": "4",
+      "caption": "Night Is Dark",
+      "url": "https://www.bobbytalkscinema.com/adminpanel/imagetemp/Kaithi-Site.jpg",
+      "embedLink": "https://www.youtube.com/embed/LVk5C5EVl-U"
+    },
+    {
+      "id": "6",
+      "caption": "Courtesy Call",
+      "url": "https://img.zorox.to/i/cache/images/2018/03/43012fe439631a2cecfcf248841e15f7.jpg",
+      "embedLink": "https://www.youtube.com/embed/yLN9tGbGlz8"
+    }
+  ],
+  "category": [
+    {
+      "category": "English songs",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "The Rumbling",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg",
+          "embedLink": "https://www.youtube.com/embed/u1HNT3LGrxk"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Rolex",
+      "embedLink": "https://www.youtube.com/embed/rBLCjz8as0E",
+      "timeStamp": "11/06/2023, 11:24:41 PM",
+      "id": 1
+    },
+    {
+      "caption": "The Rumbling",
+      "embedLink": "https://www.youtube.com/embed/u1HNT3LGrxk",
+      "timeStamp": "11/06/2023, 11:24:50 PM",
+      "id": 2
+    }
+  ]
+}
